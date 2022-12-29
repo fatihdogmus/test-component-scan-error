@@ -1,8 +1,8 @@
 package com.example.module1;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+@Repository
 public class TestBean {
 
     public void test() {
